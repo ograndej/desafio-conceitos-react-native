@@ -10,6 +10,7 @@
 
 ```sh
 yarn install
+```
 
 <p align="center">
   <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -36,4 +37,7 @@ Made with ♥ by Jonathas Ramos :wave: [Get in touch!](https://www.linkedin.com/
 [vc]: https://code.visualstudio.com/
 [vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
 [vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+
+```
+
 ```
